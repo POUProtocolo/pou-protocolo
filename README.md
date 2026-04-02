@@ -1,6 +1,6 @@
 # POU PROTOCOLO
 
-![POU PROTOCOLO Logo](https://poureservavalor.com/assets/pou-logo-master-1-6.svg)
+![POU PROTOCOLO Logo](https://poureservavalor.com/assets/pou-logo-master-1-9.svg)
 
 **POU PROTOCOLO** is a BNB Smart Chain protocol designed around **treasury protection**, **controlled token issuance**, **reserve-based logic**, and **USDT-backed participation mechanics**.
 
