@@ -87,7 +87,7 @@ POU PROTOCOLO should **not** be presented as:
 ## Official Public References
 - **Website:** https://poureservavalor.com
 - **GitHub:** https://github.com/POUProtocolo/pou-protocolo
-- **Logo:** https://poureservavalor.com/assets/POU_Logo_Master_v1.0_1-3.svg
+- **Logo:** https://poureservavalor.com/assets/pou-logo-master-1-6.svg
 
 ## Repository Purpose
 This repository serves as the official public institutional reference for the current public identity of **POU PROTOCOLO V23**.
