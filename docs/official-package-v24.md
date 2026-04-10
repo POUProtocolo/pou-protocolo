@@ -42,17 +42,20 @@ https://x.com/PouProtocolo
 ## Official GitHub
 https://github.com/POUProtocolo/pou-protocolo
 
+## Official Contracts Reference
+https://github.com/POUProtocolo/pou-protocolo/blob/main/docs/contracts.md
+
 ## Official Short Description
-POU PROTOCOLO is a treasury-structured digital asset protocol on BNB Smart Chain built around public reserve visibility, controlled issuance logic, and USDT-based operational participation.
+POU PROTOCOLO is a BNB Smart Chain project structured around public contract references, reserve-based operational logic, controlled token issuance, and USDT-referenced participation.
 
 ## Official Medium Description
-POU PROTOCOLO is a BNB Smart Chain protocol structured around treasury visibility, controlled token issuance, reserve-based operational logic, and USDT-referenced participation. The public materials identify the official token, protocol, and governance addresses to reduce ambiguity across explorers, GitHub, and website references.
+POU PROTOCOLO is a BNB Smart Chain project organized around public contract references, reserve-based operational logic, controlled token issuance, and USDT-referenced participation. Public materials identify the official token, protocol, and governance addresses in order to maintain consistency across the website, GitHub, and explorer-facing references.
 
-## Official Public Positioning
-POU PROTOCOLO should be presented as a protocol-oriented structure with publicly identified token, protocol, treasury logic, and governance references.
+## Official Presentation Note
+POU PROTOCOLO should be publicly referenced with its official token, official protocol, official governance address, and official website materials aligned to the same current version.
 
 ## Communication Guardrails
-Do not present the project as a profit promise, guaranteed return vehicle, or automatic appreciation structure.
+Do not present the project as a profit promise, guaranteed return structure, or automatic appreciation mechanism.
 
 ## Official Status
-This document consolidates the current official public identity of POU PROTOCOLO V24.
+This document consolidates the current official public identity and contract references of POU PROTOCOLO V24.
