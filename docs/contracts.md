@@ -6,6 +6,12 @@ POU PROTOCOLO
 ## Official Website
 https://poureservavalor.com
 
+## Official Contact
+support@poureservavalor.com
+
+## Official Repository
+https://github.com/POUProtocolo/pou-protocolo
+
 ## Network
 BNB Smart Chain
 
@@ -30,8 +36,8 @@ POU
 ## Official Logo
 https://poureservavalor.com/assets/pou-logo-32.svg
 
-## Public Positioning
-POU PROTOCOLO is a BNB Smart Chain protocol focused on treasury visibility, controlled token issuance, reserve-based structure, and USDT-referenced operational participation.
+## Public Description
+POU PROTOCOLO is a BNB Smart Chain project structured around public contract references, reserve-based operational logic, controlled token issuance, and USDT-referenced participation.
 
 ## Communication Note
-This page consolidates the current official public contract references of POU PROTOCOLO V24 to reduce ambiguity across website, GitHub, explorer listings, and public directories.
+This page consolidates the current official public contract references of POU PROTOCOLO V24 for website, GitHub, explorer listings, and public directory alignment.
