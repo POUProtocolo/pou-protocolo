@@ -1,8 +1,11 @@
+
 # POU PROTOCOLO V24
 
 ![POU PROTOCOLO Logo](https://poureservavalor.com/assets/pou-logo-master-1-9.svg)
 
 **POU PROTOCOLO V24** is a BNB Smart Chain protocol designed around **treasury protection**, **controlled token issuance**, **reserve-based logic**, **timed claim mechanics**, and a **compliance-ready architecture**.
+
+---
 
 ## Official Website
 https://poureservavalor.com
@@ -15,6 +18,8 @@ https://poureservavalor.com
 ## Official Contracts
 - **Official Token V24:** `0x4C42587b1DA6a121CBa48053C19A534B6C091198`
 - **Official Protocol V24:** `0xe7603361925c5483C22A02D5B3DeADD0ab467f5A`
+
+---
 
 ## Official Short Description
 POU PROTOCOLO V24 is a BNB Smart Chain protocol focused on treasury protection, controlled token issuance, reserve-based structure, timed claim logic, and compliance-ready architecture.
@@ -48,7 +53,10 @@ The mission of POU PROTOCOLO V24 is to provide a more disciplined, transparent, 
 ## Long-Term Vision
 The long-term vision of POU PROTOCOLO V24 is to establish itself as a reference for a crypto structure guided by treasury protection, economic discipline, and protocol coherence, serving as a bridge for users seeking to participate in the digital environment with greater organization, transparency, and progressive trust.
 
+---
+
 ## Official Differentiators
+
 1. **Treasury Protection as a Core Principle**  
    The protocol’s financial base is treated as a central element of operational consistency.
 
@@ -73,6 +81,8 @@ The long-term vision of POU PROTOCOLO V24 is to establish itself as a reference 
 8. **Progressive Public Transparency**  
    The project is designed to evolve with verifiable public presence and gradual ecosystem credibility.
 
+---
+
 ## Official Public Positioning
 POU PROTOCOLO V24 should be presented as a protocol-oriented structure focused on:
 - treasury protection
@@ -96,6 +106,7 @@ POU PROTOCOLO V24 should **not** be presented as:
 ## Official Public References
 - **Website:** https://poureservavalor.com
 - **GitHub:** https://github.com/POUProtocolo/pou-protocolo
+- **Discord:** https://discord.gg/AqaptEEdPU
 - **Logo:** https://poureservavalor.com/assets/pou-logo-master-1-6.svg
 
 ## Repository Purpose
