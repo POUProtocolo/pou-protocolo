@@ -36,9 +36,6 @@ https://poureservavalor.com/assets/pou-logo-32.svg
 ## Official Email
 support@poureservavalor.com
 
-## Official X
-https://x.com/PouProtocolo
-
 ## Official GitHub
 https://github.com/POUProtocolo/pou-protocolo
 
