@@ -30,6 +30,9 @@ BNB Smart Chain
 ## Official Website
 https://poureservavalor.com
 
+## Official Litepaper
+https://poureservavalor.com/litepaper.html
+
 ## Official Logo
 https://poureservavalor.com/assets/pou-logo-32.svg
 
@@ -39,17 +42,23 @@ support@poureservavalor.com
 ## Official GitHub
 https://github.com/POUProtocolo/pou-protocolo
 
+## Official Discord
+https://discord.gg/AqaptEEdPU
+
 ## Official Contracts Reference
 https://github.com/POUProtocolo/pou-protocolo/blob/main/docs/contracts.md
+
+## Official Founder / Team Member Profile Reference
+https://poureservavalor.com/litepaper.html
 
 ## Official Short Description
 POU PROTOCOLO is a BNB Smart Chain project structured around public contract references, reserve-based operational logic, controlled token issuance, and USDT-referenced participation.
 
 ## Official Medium Description
-POU PROTOCOLO is a BNB Smart Chain project organized around public contract references, reserve-based operational logic, controlled token issuance, and USDT-referenced participation. Public materials identify the official token, protocol, and governance addresses in order to maintain consistency across the website, GitHub, and explorer-facing references.
+POU PROTOCOLO is a BNB Smart Chain project organized around public contract references, reserve-based operational logic, controlled token issuance, and USDT-referenced participation. Public materials identify the official token, protocol, governance address, and institutional references in order to maintain consistency across the website, GitHub, litepaper, and explorer-facing materials.
 
 ## Official Presentation Note
-POU PROTOCOLO should be publicly referenced with its official token, official protocol, official governance address, and official website materials aligned to the same current version.
+POU PROTOCOLO should be publicly referenced with its official token, official protocol, official governance address, official website materials, and official litepaper aligned to the same current version.
 
 ## Communication Guardrails
 Do not present the project as a profit promise, guaranteed return structure, or automatic appreciation mechanism.
