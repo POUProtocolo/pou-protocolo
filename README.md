@@ -108,7 +108,6 @@ POU PROTOCOLO V24 should **not** be presented as:
 - **GitHub:** https://github.com/POUProtocolo/pou-protocolo
 - **Discord:** https://discord.gg/AqaptEEdPU
 - **X official:** https://x.com/PouProtocolo
-- **X Institutional Post:** https://x.com/PouProtocolo/status/2048898404164505600
 - **Logo:** https://poureservavalor.com/assets/pou-logo-master-1-6.svg
 
 ## Repository Purpose
