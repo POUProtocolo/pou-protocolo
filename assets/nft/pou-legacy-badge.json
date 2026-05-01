@@ -1,1 +1,44 @@
-
+{
+  "name": "POU Legacy Badge - First 10 Participants",
+  "description": "NFT institucional de reconhecimento histórico emitido para uma das 10 primeiras carteiras distintas que realizaram aporte válido no POU PROTOCOLO V24. Este badge tem finalidade simbólica, reputacional e histórica, sem promessa de retorno financeiro, sem direito automático sobre tesouraria e sem garantia de valorização.",
+  "image": "https://raw.githubusercontent.com/POUProtocolo/pou-protocolo/main/assets/nft/pou-legacy-badge.png",
+  "external_url": "https://poureservavalor.com",
+  "attributes": [
+    {
+      "trait_type": "Protocol",
+      "value": "POU PROTOCOLO V24"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Participação Histórica"
+    },
+    {
+      "trait_type": "Eligibility",
+      "value": "First 10 distinct wallets"
+    },
+    {
+      "trait_type": "Network",
+      "value": "BNB Smart Chain"
+    },
+    {
+      "trait_type": "POU Token V24",
+      "value": "0x4C42587b1DA6a121CBa48053C19A534B6C091198"
+    },
+    {
+      "trait_type": "POU Protocol V24",
+      "value": "0xe7603361925c5483C22A02D5B3DeADD0ab467f5A"
+    },
+    {
+      "trait_type": "Transferability",
+      "value": "Non-transferable"
+    },
+    {
+      "trait_type": "Financial Rights",
+      "value": "None"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Historical recognition"
+    }
+  ]
+}
